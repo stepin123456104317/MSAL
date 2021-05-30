@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.cdk-overlay-connected-position-bounding-box{top: 65px !important;left: 1295.51px !important;}
+.menu-list.mat-menu-panel{min-width: 170px;}
+.bee-spinner {width: 5%;height: 17%;position: fixed;top: 48%;left: calc(50% - 5%);z-index: 100;background-image: url(./assets/images/giphy.gif);
+              background-repeat: no-repeat;background-size: 97%;}
+
+.mat-sidenav-container, .nested-vertical-menu{height: 100%;}
+/* .mat-sidenav, .mat-sidenav-content{padding: 16px;} */
+.bgimg .mat-drawer-container, .nested-vertical-menu{position: initial;}
+.bgimg .mat-drawer-container{background-image: url(http://localhost:4200/assets/landing-img.jpg);background-repeat: no-repeat;background-size: cover;background-position: center;height: calc(100vh - 100px);}
+.bgimg .mat-drawer, .side-panel{background-color: #1A0A0A;width: 250px;overflow-y: initial;top: 64px;}
+.bgimg .mat-drawer-inner-container{overflow: initial;}
+small{font-size: 9px;color: #fff;}

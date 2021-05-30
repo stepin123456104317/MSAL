@@ -1,0 +1,11 @@
+.example-spacer {flex: 1 1 auto;}
+
+.logo{padding-left: 45px;}
+.menu-icon mat-icon{font-size: 2.2em;position: relative;top: 3px;}
+.header .mat-toolbar{background-color: #d13b30;color: #fff;padding-left: 25px;padding-right: 100px;}
+button.example-icon, button.user-name {background: none;border: none;color: #fff;cursor: pointer;}
+.user-name{font-size: 14px;}
+.user-name small{float: left;font-size: 11px;opacity: 0.8;}
+.profile-pic .mat-icon{font-size: 2.5em;margin: 5px 5px 0 0;}
+.cdk-overlay-connected-position-bounding-box{top: 65px;left: 1295.51px;}
+.mat-menu-panel{min-width: 170px;}

@@ -1,0 +1,26 @@
+/* ul {list-style: none;padding-left: 0;}
+li {list-style: none;padding: 10px 0 10px 20px;}
+a {text-decoration: none;color: #fff;font-size: 13px;}
+ul.submenu {padding-left: 25px;}
+.submenu > li.active > a, .nav > li.active > a, .sub-menu-header > a {color: #CC0000;}
+
+.submenu li {padding-left:10px;position: relative;cursor: pointer;}
+ul li + .submenu {display: none;}
+ul li.active + .submenu {display: block;list-style: none;}
+
+.mat-sidenav.side-panel {left: 58%;}
+.submenu li ul {display: none;}
+.submenu li:hover {background-color: #4c1e1e;border-radius: 4px;}
+.submenu li:hover ul {display: block;}
+
+.new-menu {position: absolute;left: 225px;top:-159px;background: #2d1616;height: 100vh;width: 200px;z-index: 1000;}
+.sub-menu-header > a, .nav > li.active > a{font-weight: bold;}
+.sub-menu-header > a > small, .nav > a > small{font-weight: normal;}
+li > ul.new-menu > li {padding-left: 25px;}
+hr{margin-left: 25px;border: 1px solid #4c1e1e;}
+button.example-icon {background: none;border: none;color: #fff;cursor: pointer;position: relative;top: -47px;left: 25px;}
+button.example-icon > .mat-icon{font-size: 30px;}
+.close{width: 64px;height: 64px;background: #1A0A0A;position: absolute;top: -64px;cursor: pointer;}
+.close .mat-icon{color: #fff;position: absolute;top: 20px;left: 15px;font-size: 30px;}
+
+.bgimg{background-image: url(http://localhost:4200/assets/landing-img.jpg);background-repeat: no-repeat;background-size: cover;background-position: center;height: calc(100vh - 100px);} */
